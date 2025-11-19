@@ -76,32 +76,32 @@ This helps companies make better marketing and sales decisions.
 🛠️ Project Workflow
 
 1.Data Collection
-  Data stored in MySQL database.
+   * Data stored in MySQL database.
 
 2.Data Cleaning using Python
+ 
+   * Handling missing values
 
-  Handling missing values
+   * Data formatting
 
-  Data formatting
+   * Removing duplicates
 
-  Removing duplicates
-
-  Preparing final dataset
+   * Preparing final dataset
 
 3.Data Import to Power BI
 
-  Connecting to MySQL
+   * Connecting to MySQL
 
-  Building measures (DAX)
+   * Building measures (DAX)
 
-  Creating visualizations
+   * Creating visualizations
 
 4.Dashboard Design
 
-  KPIs
+   * KPIs
 
-  Charts
+   * Charts
 
-  Filters
+   * Filters
 
-  Layout formatting
+   * Layout formatting
