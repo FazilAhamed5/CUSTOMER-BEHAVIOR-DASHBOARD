@@ -45,7 +45,7 @@ Visual insights including:
 * MySQL - Storing and querying raw data
 * Power BI - Data modeling and dashboard visualization
 
-  🎯 Project Objective
+🎯 Project Objective
 
 The goal of this dashboard is to help businesses understand:
 
@@ -57,6 +57,6 @@ The goal of this dashboard is to help businesses understand:
 
 * Customer satisfaction indicators based on ratings
 
-  👤 Author
+👤 Author
 
 Fazil Ahamed ( Fresher Data Analyst )
