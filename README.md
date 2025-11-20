@@ -1,4 +1,4 @@
-🛍 Customer Behavior Dashboard
+🛍 Customer Behavior Dashboard ( Python, MySQL, PowerBI )
 
 This project analyzes customer purchasing patterns to understand spending behavior, preferences, and engagement.
 Using a combination of data processing and visualization tools, the dashboard provides valuable insights to support business decisions.
@@ -59,4 +59,4 @@ The goal of this dashboard is to help businesses understand:
 
 👤 Author
 
-Fazil Ahamed ( Fresher Data Analyst )
+Fazil Ahamed - Data Analyst ( Fresher )
